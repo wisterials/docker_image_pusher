@@ -14,9 +14,9 @@ postgres:14
 bitnami/redis:7.2
 zookeeper:3.8
 openjdk:17
-
-
-
+zabbix/zabbix-server-mysql:latest
+zabbix/zabbix-web-nginx-mysql:latest
+zabbix/zabbix-agent:latest
 
 
 
