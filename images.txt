@@ -6,3 +6,17 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 openjdk:8
 mysql:8.0
+openjdk:11
+bitnami/redis:7.2
+docker.io/bitnami/kafka:3.5
+cassandra:4
+postgres:14
+bitnami/redis:7.2
+zookeeper:3.8
+openjdk:17
+
+
+
+
+
+
