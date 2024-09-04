@@ -1,9 +1,6 @@
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 openjdk:8
 mysql:8.0
 openjdk:11
@@ -17,6 +14,6 @@ openjdk:17
 zabbix/zabbix-server-mysql:latest
 zabbix/zabbix-web-nginx-mysql:latest
 zabbix/zabbix-agent:latest
-
+grafana/grafana:10.2.0
 
 
