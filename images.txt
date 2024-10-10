@@ -1,9 +1,10 @@
-fabrictestbed/neo4j-apoc:5.3.0
+
 centos 
-fabrictestbed/neo4j-apoc:5.2.0
+
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+fabrictestbed/neo4j-apoc:5.3.0
 openjdk:8
 mysql:8.0
 openjdk:11
