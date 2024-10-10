@@ -16,5 +16,5 @@ zabbix/zabbix-server-mysql:latest
 zabbix/zabbix-web-nginx-mysql:latest
 zabbix/zabbix-agent:latest
 grafana/grafana:10.2.0
-
+fabrictestbed/neo4j-apoc:5.3.0
 
