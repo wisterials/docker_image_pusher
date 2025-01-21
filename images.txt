@@ -4,6 +4,7 @@ centos
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+bitnami/kafka:3.7.0
 fabrictestbed/neo4j-apoc:5.3.0
 openjdk:8
 mysql:8.0
