@@ -1,26 +1,23 @@
 
-centos 
+
 mintplexlabs/anythingllm
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+
 provectuslabs/kafka-ui:latest
 dushixiang/kafka-map:latest
 bitnami/kafka:3.7.0
-fabrictestbed/neo4j-apoc:5.3.0
+
 openjdk:8
 mysql:8.0
 openjdk:11
 bitnami/redis:7.2
-docker.io/bitnami/kafka:3.5
+
 cassandra:4
 postgres:14
 bitnami/redis:7.2
-zookeeper:3.8
-openjdk:17
-zabbix/zabbix-server-mysql:latest
-zabbix/zabbix-web-nginx-mysql:latest
-zabbix/zabbix-agent:latest
-grafana/grafana:10.2.0
+
+
+
 
 
