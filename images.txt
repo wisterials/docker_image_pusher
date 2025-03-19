@@ -1,4 +1,4 @@
-nibrev/ant-media-server
+antmedia/ant-media-server-enterprise:latest
 
 mintplexlabs/anythingllm
 nginx
