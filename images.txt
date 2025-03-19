@@ -1,5 +1,5 @@
 antmedia/ant-media-server-enterprise:latest
-
+antmedia/ant-media-server-community:latest
 mintplexlabs/anythingllm
 nginx
 #支持私库
