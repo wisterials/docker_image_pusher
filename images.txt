@@ -1,9 +1,8 @@
-antmedia/ant-media-server-enterprise:latest
-antmedia/ant-media-server-community:latest
+
 mintplexlabs/anythingllm
 nginx
 #支持私库
-
+antmedia/ant-media-server-community:latest
 provectuslabs/kafka-ui:latest
 dushixiang/kafka-map:latest
 bitnami/kafka:3.7.0
